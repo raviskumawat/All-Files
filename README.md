@@ -13,4 +13,4 @@
 ![](https://github.com/raviskumawat/Android-app/blob/master/Output/dashboard.jpeg)
 
 ## Menu Template
-![](https://github.com/raviskumawat/Android-app/blob/master/Output/dashboard.jpeg)
+![](https://github.com/raviskumawat/Android-app/blob/master/Output/Menu%20template.jpeg)
